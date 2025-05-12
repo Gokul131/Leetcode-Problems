@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gokul131/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul131/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
