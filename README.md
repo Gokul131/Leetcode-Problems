@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Gokul131/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Gokul131/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul131/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gokul131/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Gokul131/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
