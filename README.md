@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gokul131/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/Gokul131/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokul131/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokul131/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
