@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Gokul131/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Gokul131/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Gokul131/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Gokul131/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gokul131/Leetcode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Gokul131/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
